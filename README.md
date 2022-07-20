@@ -1,5 +1,5 @@
 <p align="left">
-    Olá, meu nome é Everton Correa Buscarato. Sou <strong>Front-end Developer</strong>.
+    Olá, meu nome é Everton Correa Buscarato.
 </p>
 <br>
 <p align="left">
@@ -17,7 +17,7 @@
 </p>        
 		
 <p>	
-	| Python | HTML | CSS | JavaScript | C# | Postgresql | SQLite | Linux |
+	<strong>| Python | HTML | CSS | JavaScript | C# | Postgresql | SQLite | Linux |</strong>
 </p>
         
 
